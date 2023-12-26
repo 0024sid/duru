@@ -1,0 +1,22 @@
+#img1{
+    width: 200px;
+    border-radius: 100px;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+h1{
+    text-align: center;
+    display: block;
+}
+th{
+    border: 2px solid black;
+}
+#img2{
+    width: 100px;
+    margin-left: 650 ;
+}
+body{
+   background-image: linear-gradient(rgb(133, 196, 236),white,rgb(168, 230, 226));;
+}
